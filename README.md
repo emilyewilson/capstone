@@ -1,9 +1,9 @@
-﻿# Structure Fires*
+﻿# Structure Fires
 
-Tableau Dashboard
+## Tableau Dashboard
 Link:  
 
-Table of Contents
+## Table of Contents
 * Tableau Dashboard
 * Motivation
 * Questions
