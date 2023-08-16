@@ -1,7 +1,7 @@
 ﻿# Structure Fires
 
 ## Tableau Dashboard
-Link:  
+Link:  https://public.tableau.com/views/wilson_capstone/NashvilleTNStructureFires?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Table of Contents
 * Tableau Dashboard
